@@ -3,7 +3,7 @@
 Installer and manager for **World of Tanks** mods.  
 **Fully compatible with World of Tanks client 2.0.**
 
-![Compatibility](https://img.shields.io/badge/World_of_Tanks-2.0_compatible-green) ![Windows](https://img.shields.io/badge/OS-Windows-blue) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](<DISCORD_LINK>) [![Latest Release](https://img.shields.io/github/v/release/<ORG>/<REPO>)](https://github.com/<ORG>/<REPO>/releases)
+![Compatibility](https://img.shields.io/badge/World_of_Tanks-2.0_compatible-green) ![Windows](https://img.shields.io/badge/OS-Windows-blue) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](<DISCORD_LINK>) [![Latest Release](https://img.shields.io/github/v/release/<ORG>/<REPO>)](https://github.com/BabasGames/wot-mod-station/releases)
 
 ---
 
