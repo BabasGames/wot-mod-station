@@ -10,26 +10,13 @@ Compatible with **World of Tanks client 2.0**.
 ## ✨ Key Features
 
 - **Official mods support**: installs mods from [wgmods.net](https://wgmods.net).
-- **Optional hosted mods**: additional mods may be added if requested by the community.
-- **One-click installation**: select mods, the tool handles placement and order.
-- **Automatic updates**: detects outdated mods and proposes new versions.
-- **Integrity & backups**: verifies files and creates restore points before changes.
-- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”).
-- **Logs**: detailed actions log for troubleshooting.
+- **One-click installation**: select mods, the tool handles placement and order.  
 
 ---
 
 ## 📦 Download
 
 - Latest version: see [**Releases**](https://github.com/<ORG>/<REPO>/releases).
-- File: `WoTModStation_v47.exe` (~23.3 MB).
-- **SHA-256**: `7a65f30ca320b776e6c282117687655654f1488131fbf894c4df60a285bbca54`
-
-Verify after download (PowerShell):
-
-```powershell
-Get-FileHash .\WoTModStation_v47.exe -Algorithm SHA256
-```
 
 ---
 
@@ -44,13 +31,22 @@ Get-FileHash .\WoTModStation_v47.exe -Algorithm SHA256
 
 ---
 
+## 📝 To Do / Planned Features
+
+- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”).  
+- **Automatic updates**: detects outdated mods and proposes new versions.   
+- **Optional hosted mods**: additional mods may be added if requested by the community.  
+- **Logs**: detailed actions log for troubleshooting.  
+
+---
+
 ## ❓ FAQ
 
 **Where do mods come from?**  
-By default, mods are downloaded from the official site [wgmods.net](https://wgmods.net). Community-hosted mods may be added later if requested.  
+By default, mods are downloaded from the official site [wgmods.net](https://wgmods.net).
 
 **Game won’t start?**  
-Restore a backup via the tool or verify game files in the Wargaming launcher.  
+Try verifying game files in the Wargaming launcher.  
 
 **Antivirus warning?**  
 Unsigned installers can trigger alerts. Add an exception if needed.  
@@ -64,11 +60,6 @@ Need help or want to suggest mods? Join our Discord:
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License** (or other of your choice). See `LICENSE`.
-
----
 
 ## 🔗 Quick Links
 
