@@ -8,7 +8,7 @@ Installer and manager for **World of Tanks** mods.
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/YyVUvAJnUc) 
 [![Latest Release](https://img.shields.io/github/v/release/BabasGames/wot-mod-station)](https://github.com/BabasGames/wot-mod-station/releases/latest)
 
-<img width="600" height="415" alt="{6DD153D7-7C05-4950-B60A-2754B0E88ED2}" src="https://github.com/user-attachments/assets/66ea3dfd-b4c1-4f87-bce0-4eb8ad68a272" />
+<img width="1200" height="832" alt="image" src="https://github.com/user-attachments/assets/f6111e2c-d6af-4bdf-8400-7888d8daa2ae" />
 
 ---
 
