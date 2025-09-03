@@ -1,8 +1,3 @@
----
-layout: default
-title: WoT Mod Station
----
-
 # WoT Mod Station (v4.7)
 
 The ultimate installer and manager for **World of Tanks mods**.  
