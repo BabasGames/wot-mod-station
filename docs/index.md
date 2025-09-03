@@ -41,7 +41,7 @@ That’s it — your mods are ready in the **WoT 2.0 client**.
 
 ## 📝 Planned Features
 
-- Multiple mod profiles (casual / competitive / sniper).  
+- Multiple mod profiles that can be shared.  
 - Automatic mod update detection.  
 - Optional community-hosted mods.  
 - Detailed logs for troubleshooting.  
