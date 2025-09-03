@@ -26,7 +26,7 @@ However, most of them continue to work with the **latest client (2.0)**.
 
 ## 📦 Download
 
-- Latest version: see [**Releases**](https://github.com/<ORG>/<REPO>/releases).
+- Latest version: see [**Releases**](https://github.com/BabasGames/wot-mod-station/releases/latest).
 
 ---
 
@@ -72,6 +72,5 @@ Need help or want to suggest mods? Join our Discord:
 
 ## 🔗 Quick Links
 
-- [Releases](https://github.com/<ORG>/<REPO>/releases)  
-- [Issues](https://github.com/<ORG>/<REPO>/issues)  
+- [Releases](https://github.com/BabasGames/wot-mod-station/releases/latest)
 - [Discord](https://discord.gg/YyVUvAJnUc)  
