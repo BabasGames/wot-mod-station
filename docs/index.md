@@ -8,7 +8,7 @@ title: WoT Mod Station
 The ultimate installer and manager for **World of Tanks mods**.  
 **Fully compatible with World of Tanks client 2.0.**
 
-[![Download](https://img.shields.io/github/v/release/<ORG>/<REPO>)](https://github.com/<ORG>/<REPO>/releases)
+[![Latest Release](https://img.shields.io/github/v/release/BabasGames/wot-mod-station)](https://github.com/BabasGames/wot-mod-station/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](<DISCORD_LINK>)
 
 ---
