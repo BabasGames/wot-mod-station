@@ -25,7 +25,7 @@ They may not always be updated on release day, but the majority are still functi
 
 ## 📦 Download
 
-➡️ Head to the [**Releases**](https://github.com/<ORG>/<REPO>/releases) page and grab the latest `WoTModStation_vXX.exe`.  
+➡️ Head to the [**Releases**](https://github.com/BabasGames/wot-mod-station/releases/latest) page and grab the latest `WoTModStation_vXX.exe`.  
 
 ---
 
