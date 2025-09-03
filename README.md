@@ -16,13 +16,20 @@ Installer and manager for **World of Tanks** mods.
 
 - **Official mods support**: installs mods directly from [wgmods.net](https://wgmods.net).
 - **One-click installation**: select mods, and the tool handles placement and order.
+- **Multi-Installation Support**: manage mods across multiple WoT clients.
+- **Offline Mode**: browse cached mods without internet.
+- **Installed Mods Tracking**: view/manage currently installed mods.
+- **Multi-language Support**: available in 7 languages.
 
 ---
 
 ## ❗ Important Note
 
 As the mods come from the [official website](https://wgmods.net), they may not always be up to date with the game.  
-However, most of them continue to work with the **latest client (2.0)**.
+However, most of them continue to work with the **latest client (2.0)**.  
+
+⚠️ This is an **unofficial third-party tool**. Mods are provided by the community and official sources.  
+Use at your own risk and ensure compliance with **World of Tanks Terms of Service**.
 
 ---
 
@@ -34,34 +41,71 @@ However, most of them continue to work with the **latest client (2.0)**.
 
 ## 🚀 How to Use
 
-1. Download the latest release.  
+1. Download the latest release (`WoTModStation_vXX.exe` or `WoTModsManager.exe`).  
 2. Close World of Tanks.  
-3. Run `WoTModStation_vXX.exe` (administrator rights may be required).  
-4. Select your WoT folder if it is not auto-detected.  
+3. Run the executable (administrator rights may be required, no installation needed).  
+4. Select your WoT folder if not auto-detected.  
 5. Choose mods → **Install**.  
-6. To update mods, simply relaunch the app.
+6. To update mods, simply relaunch the app.  
+7. First launch will ask for:
+   - Language selection  
+   - Acceptance of Terms of Service  
+   - WoT installation detection  
+
+---
+
+## 📋 System Requirements
+
+- Windows 10 or later (64-bit)  
+- World of Tanks installed  
+- Internet connection (for downloading mods)  
 
 ---
 
 ## 📝 To Do / Planned Features
 
-- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”) and share them with your friends.  
+- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”) and share them.  
 - **Automatic updates**: detect outdated mods and propose newer versions.  
-- **Optional hosted mods**: community-requested mods may be added.  
-- **Logs**: detailed action log for easier troubleshooting.  
+- **Optional hosted mods**: add community-requested mods.  
+- **Logs**: detailed action log for troubleshooting.  
 
 ---
 
 ## ❓ FAQ
 
 **Where do mods come from?**  
-By default, mods are downloaded from the official site [wgmods.net](https://wgmods.net).
+By default, mods are downloaded from [wgmods.net](https://wgmods.net) and community repositories.  
 
 **Game won’t start?**  
 Try verifying game files via the Wargaming launcher.  
 
 **Antivirus warning?**  
 Unsigned installers can trigger alerts. Add an exception if needed.  
+
+---
+
+## 🌍 Languages
+
+- English  
+- Français  
+- Deutsch  
+- Español  
+- Italiano  
+- Русский  
+- Українська  
+
+---
+
+## 📝 License
+
+This software is provided "as is" without warranty of any kind.  
+Use at your own risk.  
+
+---
+
+## 🤝 Contributing
+
+This project is actively developed. Bug reports and suggestions are welcome via GitHub Issues.  
 
 ---
 
@@ -74,5 +118,5 @@ Need help or want to suggest mods? Join our Discord:
 
 ## 🔗 Quick Links
 
-- [Releases](https://github.com/BabasGames/wot-mod-station/releases/latest)
+- [Releases](https://github.com/BabasGames/wot-mod-station/releases/latest)  
 - [Discord](https://discord.gg/YyVUvAJnUc)  
