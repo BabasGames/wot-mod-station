@@ -98,8 +98,8 @@ Unsigned installers can trigger alerts. Add an exception if needed.
 
 ## 📝 License
 
-This software is provided "as is" without warranty of any kind.  
-Use at your own risk.  
+This project is licensed under the **MIT License**.  
+See the LICENSE file for details.  
 
 ---
 
