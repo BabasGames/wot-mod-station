@@ -4,7 +4,7 @@ The ultimate installer and manager for **World of Tanks mods**.
 **Fully compatible with World of Tanks client 2.0.**
 
 [![Latest Release](https://img.shields.io/github/v/release/BabasGames/wot-mod-station)](https://github.com/BabasGames/wot-mod-station/releases/latest)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](<DISCORD_LINK>)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/YyVUvAJnUc)
 
 ---
 
@@ -51,7 +51,7 @@ That’s it — your mods are ready in the **WoT 2.0 client**.
 ## ❓ Need Help?
 
 Join our Discord for support and suggestions:  
-👉 [**Discord — Support & Feedback**](<DISCORD_LINK>)
+👉 [**Discord — Support & Feedback**](https://discord.gg/YyVUvAJnUc)
 
 ---
 
