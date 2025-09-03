@@ -103,6 +103,24 @@ See the LICENSE file for details.
 
 ---
 
+## 💝 Support the Project
+
+If you find this software useful and use it regularly, you can support its development with a crypto donation:
+
+**Bitcoin (BTC):**
+```
+bc1q7ggl3cq7ed0q9pmlakuwahjff88r746g4alvyl
+```
+
+**Ethereum (ETH):**
+```
+0xE23d029329402BE0005916F4972B44F1d4529EF6
+```
+
+Thank you for your support! 🙏
+
+---
+
 ## 🤝 Contributing
 
 This project is actively developed. Bug reports and suggestions are welcome via GitHub Issues.  
@@ -120,3 +138,7 @@ Need help or want to suggest mods? Join our Discord:
 
 - [Releases](https://github.com/BabasGames/wot-mod-station/releases/latest)  
 - [Discord](https://discord.gg/YyVUvAJnUc)  
+
+---
+
+<p align="center">Made with ❤️ for the World of Tanks community</p>
