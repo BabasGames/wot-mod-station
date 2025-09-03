@@ -1,4 +1,4 @@
-# WoT Mod Station (v4.7)
+# WoT Mod Station
 
 Installer and manager for **World of Tanks** mods.  
 **Fully compatible with World of Tanks client 2.0.**
