@@ -13,6 +13,11 @@ Compatible with **World of Tanks client 2.0**.
 - **One-click installation**: select mods, the tool handles placement and order.  
 
 ---
+## ❗ Important note
+
+As the mods come from the [official website](https://wgmods.net), they may not be up to date for the game, but most of them still work in the latest version of the game (currently 2.0).
+
+---
 
 ## 📦 Download
 
@@ -24,7 +29,7 @@ Compatible with **World of Tanks client 2.0**.
 
 1. Download the latest release.  
 2. Close World of Tanks.  
-3. Run `WoTModStation_v47.exe` (admin rights may be required).  
+3. Run `WoTModStation_vXX.exe` (admin rights may be required).  
 4. Select your WoT folder if not auto-detected.  
 5. Choose mods → **Install**.  
 6. To update mods, relaunch the app.
@@ -33,7 +38,7 @@ Compatible with **World of Tanks client 2.0**.
 
 ## 📝 To Do / Planned Features
 
-- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”).  
+- **Profiles**: save multiple mod sets (e.g. “Casual”, “Competitive”, “Sniper”), and share them with your friends.  
 - **Automatic updates**: detects outdated mods and proposes new versions.   
 - **Optional hosted mods**: additional mods may be added if requested by the community.  
 - **Logs**: detailed actions log for troubleshooting.  
