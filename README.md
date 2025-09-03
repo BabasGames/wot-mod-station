@@ -66,7 +66,7 @@ Unsigned installers can trigger alerts. Add an exception if needed.
 ## 🤝 Support & Feedback
 
 Need help or want to suggest mods? Join our Discord:  
-👉 [**Discord — Support & Feedback**](<DISCORD_LINK>)
+👉 [**Discord — Support & Feedback**](https://discord.gg/YyVUvAJnUc)
 
 ---
 
@@ -74,4 +74,4 @@ Need help or want to suggest mods? Join our Discord:
 
 - [Releases](https://github.com/<ORG>/<REPO>/releases)  
 - [Issues](https://github.com/<ORG>/<REPO>/issues)  
-- [Discord](<DISCORD_LINK>)  
+- [Discord](https://discord.gg/YyVUvAJnUc)  
