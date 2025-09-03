@@ -123,7 +123,7 @@ Thank you for your support! 🙏
 
 ## 🤝 Contributing
 
-This project is actively developed. Bug reports and suggestions are welcome via GitHub Issues.  
+This project is actively developed. Bug reports and suggestions are welcome via Discord.  
 
 ---
 
