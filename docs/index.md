@@ -74,7 +74,7 @@ Use at your own risk and ensure compliance with **World of Tanks Terms of Servic
 ## ❓ FAQ
 
 **Where do mods come from?**  
-By default, mods are downloaded from [wgmods.net](https://wgmods.net) and community repositories.  
+By default, mods are downloaded from [wgmods.net](https://wgmods.net).
 
 **Game won’t start?**  
 Try verifying game files via the Wargaming launcher.  
