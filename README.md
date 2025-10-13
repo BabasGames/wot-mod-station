@@ -12,6 +12,10 @@ Installer and manager for **World of Tanks** mods.
 
 ---
 
+**Development has stopped because no one is using it.**
+
+---
+
 ## ✨ Key Features
 
 - **Official mods support**: installs mods directly from [wgmods.net](https://wgmods.net).
